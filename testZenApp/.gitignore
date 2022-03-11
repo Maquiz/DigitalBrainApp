@@ -1,5 +1,12 @@
-tmp/
-dist/
-node_modules/
-coverage/
-npm-debug.log
+node_modules
+.vscode
+
+# Build files.
+dist/tmp/
+dist/assets/*.html
+dist/assets/bundle.js
+dist/assets/bundle.js.LICENSE.txt
+webpack-stats.json
+
+# Yarn.
+yarn-error.log
