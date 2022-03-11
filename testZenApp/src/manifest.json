@@ -1,0 +1,20 @@
+{
+  "name": "Digital Brain",
+  "author": {
+    "name": "Max",
+    "email": "kesava.kirupa@gmail.com",
+    "url": "https://digitalbrain.zendesk.com/hc/en-us"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": {
+        "url": "assets/iframe.html",
+        "flexible": true
+      }
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
