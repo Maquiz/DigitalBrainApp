@@ -8,7 +8,7 @@ const App = () => {
   const [requester, setRequester] = React.useState(null)
 
   React.useEffect(async () => {
-    zafClient.invoke('resize', { height: '150px' })
+    zafClient.invoke('resize', { height: '175px' })
 
     const data = await zafClient.get('ticket.requester')
     const requester = data['ticket.requester']

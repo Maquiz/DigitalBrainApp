@@ -2,6 +2,7 @@ import React, {useState} from 'react'
 import { Button } from '@zendeskgarden/react-buttons'
 import { Modal, Header, Body, Footer, FooterItem, Close } from '@zendeskgarden/react-modals'
 import { Row, Col } from '@zendeskgarden/react-grid'
+import './style.scss'
 
 const TaskButton = (props) => {
     const [visible, setVisible] = useState(false)
@@ -9,7 +10,7 @@ const TaskButton = (props) => {
     return (
       <Row>
         <Col textAlign="center">
-          <Button isStretched onClick={() => setVisible(true)}>{props.name}</Button>
+          <Button id="button" isStretched onClick={() => setVisible(true)}>{props.name}</Button>
           {visible && (
             <Modal onClose={() => setVisible(false)}>
               <Header>{props.name}</Header>
