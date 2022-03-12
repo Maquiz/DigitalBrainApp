@@ -45,7 +45,8 @@ Through out the process I used the following resources.
 | [ZenDesk Garden](https://garden.zendesk.com/components) |
 | [ZenDesk Developers](https://developer.zendesk.com/api-reference) |
 | [Zendesk-React-App-Boilerplate](https://github.com/Cloudhuset/Zendesk-React-App-Boilerplate) |
-| [ZenDesk Garden](https://garden.zendesk.com/components) |
+| [ZenDesk App Youtube](https://www.youtube.com/watch?v=zozXJ-__Ho4) |
+
 
 ## License
 
