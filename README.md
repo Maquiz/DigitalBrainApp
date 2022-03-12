@@ -26,6 +26,7 @@ zat server -p dist
 ## Future Goals
 
 - Add Redux for state management
+- Add Test cases for each component
 - Expand modal to build out feature and separate from button
 - Use a UNIX system as working on a windows system caused weirness like being unable to remove dead code
 
