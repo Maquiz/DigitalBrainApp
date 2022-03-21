@@ -23,6 +23,7 @@ zat server -p dist
 ```
 
 To see the zat app add ?zat=true to the end of the URL
+ex: https://digitalbrain.zendesk.com/agent/tickets/326?zat=true
 
 
 ## Future Goals
