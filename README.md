@@ -22,6 +22,8 @@ cd testZenApp
 zat server -p dist
 ```
 
+To see the zat app add ?zat=true to the end of the URL
+
 
 ## Future Goals
 
